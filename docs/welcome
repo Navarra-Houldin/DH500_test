@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Welcome to Navarra's site</title>
+    <!-- <link rel="stylesheet" href="meetingNotes.scss"/> -->
+   </head>
+
+   <body>
+    <header>
+        <h1>Welcome</h1>
+    </hgroup>
+
+    <article>
+
+        <main>
+           <p>You can also check out the <a href="#index.html">test page</a>!</p>
+
+            
+        </main>
+    </article>
+   </body>
+</html>
